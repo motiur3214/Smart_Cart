@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Smart_Cart/static/css/main.b2eaf959.chunk.css",
+    "main.js": "/Smart_Cart/static/js/main.523b3a1b.chunk.js",
+    "main.js.map": "/Smart_Cart/static/js/main.523b3a1b.chunk.js.map",
+    "runtime-main.js": "/Smart_Cart/static/js/runtime-main.9dd645d1.js",
+    "runtime-main.js.map": "/Smart_Cart/static/js/runtime-main.9dd645d1.js.map",
+    "static/css/2.d5707cfa.chunk.css": "/Smart_Cart/static/css/2.d5707cfa.chunk.css",
+    "static/js/2.b461e895.chunk.js": "/Smart_Cart/static/js/2.b461e895.chunk.js",
+    "static/js/2.b461e895.chunk.js.map": "/Smart_Cart/static/js/2.b461e895.chunk.js.map",
+    "static/js/3.37d2ae03.chunk.js": "/Smart_Cart/static/js/3.37d2ae03.chunk.js",
+    "static/js/3.37d2ae03.chunk.js.map": "/Smart_Cart/static/js/3.37d2ae03.chunk.js.map",
+    "index.html": "/Smart_Cart/index.html",
+    "static/css/2.d5707cfa.chunk.css.map": "/Smart_Cart/static/css/2.d5707cfa.chunk.css.map",
+    "static/css/main.b2eaf959.chunk.css.map": "/Smart_Cart/static/css/main.b2eaf959.chunk.css.map",
+    "static/js/2.b461e895.chunk.js.LICENSE.txt": "/Smart_Cart/static/js/2.b461e895.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/Smart_Cart/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/Smart_Cart/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/styles.css": "/Smart_Cart/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dd645d1.js",
+    "static/css/2.d5707cfa.chunk.css",
+    "static/js/2.b461e895.chunk.js",
+    "static/css/main.b2eaf959.chunk.css",
+    "static/js/main.523b3a1b.chunk.js"
+  ]
+}
